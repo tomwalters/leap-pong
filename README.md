@@ -1,4 +1,5 @@
-leap-pong
+Leap Pong!
 =========
 
-A 2 player pong game for LeapMotion
+A 2 player pong game for LeapMotion.
+
